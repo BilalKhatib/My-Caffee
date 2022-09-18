@@ -1,0 +1,99 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(https://i.postimg.cc/YjcJg24M/aa.jpg);
+	height: 100vh;
+	-webkit-background-size: cover;
+	background-size: cover;
+	background-position: center center;
+	position: relative;
+	max-height: 600px;
+}
+
+#register-div {
+	margin-top: 20%;
+}
+
+h1 {
+	font-family: 'Poppins', sans-serif;
+	color: #fff;
+	text-transform: uppercase;
+}
+
+#register-email {
+	width: 25%;
+	font-weight: bold;
+	font-size: 16px;
+	height: 23px;
+	border: 1px solid #fff;
+	padding: 10px 25px;
+	text-decoration: none;
+	font-size: 14px;
+	display: inline-block;
+	color: #fff;
+	background: transparent;
+}
+
+#register-username {
+	width: 25%;
+	font-weight: bold;
+	font-size: 16px;
+	height: 23px;
+	border: 1px solid #fff;
+	padding: 10px 25px;
+	text-decoration: none;
+	font-size: 14px;
+	display: inline-block;
+	color: #fff;
+	background: transparent;
+}
+
+#register-password {
+	width: 25%;
+	font-weight: bold;
+	font-size: 16px;
+	height: 23px;
+	border: 1px solid #fff;
+	padding: 10px 25px;
+	text-decoration: none;
+	font-size: 14px;
+	display: inline-block;
+	color: #fff;
+	background: transparent;
+}
+
+#register-repeat-password {
+	width: 25%;
+	font-weight: bold;
+	font-size: 16px;
+	height: 23px;
+	border: 1px solid #fff;
+	padding: 10px 25px;
+	text-decoration: none;
+	font-size: 14px;
+	display: inline-block;
+	color: #fff;
+	background: transparent;
+}
+
+#register {
+	width: 29%;
+	cursor: pointer;
+	font-weight: bold;
+	border: 1px solid #fff;
+	padding: 10px 25px;
+	text-decoration: none;
+	text-transform: uppercase;
+	background: transparent;
+	font-size: 16px;
+	display: inline-block;
+	color: #fff;
+}
+
+#register:hover{
+	background: #fff;
+	color: #333;
+}
